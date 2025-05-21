@@ -12,6 +12,7 @@ namespace bai10_12
         {
             Dog dog = new Dog();
             Console.WriteLine("Dog:");
+            Console.WriteLine("Dog1111:");
             dog.makeSound();
 
             Cat cat = new Cat();
